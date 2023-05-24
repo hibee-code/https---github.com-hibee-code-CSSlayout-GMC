@@ -72,15 +72,15 @@ header ul li .B, .C{
     border-radius: 20px;
 }
 .child1{
-    background-color: lightseagreen;
+    background-color: green;
     font-family: sans-serif;
 }
 .child2{
-    background-color:blue;
+    background-color:purple;
     font-family: sans-serif;
 }
 .child3{
-    background-color: lightcyan;
+    background-color: blue;
     font-family: sans-serif;
 }
 .child .select{
